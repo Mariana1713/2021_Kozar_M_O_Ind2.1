@@ -1,0 +1,2 @@
+C:\Users\ASUS\source\repos\2021_Kozar_M_O_Ind_2_1_1\obj\Debug\2021_Kozar_M_O_Ind_2_1_1.csprojAssemblyReference.cache
+C:\Users\ASUS\source\repos\2021_Kozar_M_O_Ind_2_1_1\obj\Debug\2021_Kozar_M_O_Ind_2_1_1.csproj.CoreCompileInputs.cache
